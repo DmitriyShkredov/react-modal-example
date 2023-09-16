@@ -1,0 +1,30 @@
+.main {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  padding: 3.125rem 1.25rem;
+}
+
+.modal-show-button {
+  margin: 0.5rem;
+  width: 150px;
+  height: 50px;
+  border-radius: 0.4375rem;
+  background-color: #ff6700;
+  font-size: 18px;
+  color: #ffffff;
+  box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.25);
+  transition: background-color 0.3s;
+}
+
+.modal-show-button:hover {
+  background-color: #c24e00;
+}

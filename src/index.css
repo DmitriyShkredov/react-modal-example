@@ -15,3 +15,24 @@ code {
 * {
   box-sizing: border-box;
 }
+
+h1,
+h2,
+p {
+  margin: 0;
+  font-weight: 400;
+  font-style: normal;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  background-color: transparent;
+}
