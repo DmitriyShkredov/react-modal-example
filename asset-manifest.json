@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-modal-example/static/css/main.860fa67d.css",
+    "main.js": "/react-modal-example/static/js/main.8afb6f26.js",
+    "static/media/smartphone.png": "/react-modal-example/static/media/smartphone.8c8770d338a1a3ac146c.png",
+    "index.html": "/react-modal-example/index.html",
+    "static/media/close-icon.svg": "/react-modal-example/static/media/close-icon.afa9df2fdb98036d0876ecaf9e540b63.svg",
+    "main.860fa67d.css.map": "/react-modal-example/static/css/main.860fa67d.css.map",
+    "main.8afb6f26.js.map": "/react-modal-example/static/js/main.8afb6f26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.860fa67d.css",
+    "static/js/main.8afb6f26.js"
+  ]
+}
