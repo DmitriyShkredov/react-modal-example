@@ -45,7 +45,7 @@ export const Main = () => {
         <CustomModal
           isOpen={modalInfoIsOpen}
           onClose={() => setModalInfoOpen(false)}
-          submitButton="ОК"
+          submitButton="Ок"
         >
           <h2>Ваше сообщение отправлено</h2>
           <p>Мы свяжемся с вами в течение двух рабочих дней</p>
@@ -57,23 +57,25 @@ export const Main = () => {
         >
           <h2>Внимание!</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
-            ex officiis voluptatum eum culpa, laboriosam eius similique,
-            pariatur id suscipit ad commodi itaque facere earum nulla nihil
-            ipsam voluptates. Quisquam labore omnis nisi aliquam fugit debitis
-            optio delectus, totam atque, cumque reprehenderit cum nam est at
-            dolorum corrupti exercitationem, dicta magni nostrum tempore!
-            Eligendi nulla enim quae molestiae, veniam laboriosam, quas quaerat,
-            eaque libero voluptatum nemo aut illo modi mollitia quisquam eum
-            beatae porro vero laudantium ipsa labore ipsum error! Harum aut
-            suscipit ipsa voluptates esse dignissimos a repudiandae vero eum
-            officiis rerum iusto hic placeat tempora nostrum, quas optio
-            repellat. Quibusdam laudantium facere autem accusamus veniam minus,
-            atque nulla porro natus totam recusandae aliquid earum harum id, sed
-            repudiandae, iste similique commodi. Sed quaerat doloribus,
-            accusantium recusandae sapiente ab explicabo facilis quas nesciunt
-            consequatur molestias sit. Expedita sunt minima, tenetur magnam
-            fugiat saepe doloribus placeat distinctio, animi optio nulla!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
+            consectetur porro nihil commodi dolor laborum inventore facere
+            consequatur ea ratione voluptatem quisquam, voluptas, error
+            doloribus quam perspiciatis reprehenderit aliquid impedit, repellat
+            doloremque. Iste nobis, ratione pariatur corrupti adipisci
+            voluptatibus iure aliquid. Earum consectetur eum reprehenderit
+            doloremque eligendi maiores, fugiat voluptates error nisi rem, iste
+            modi nam repudiandae beatae sint harum totam soluta placeat quos
+            dolores iusto, magnam sequi suscipit ut! Dolorem vel voluptas illum
+            soluta. Odio, voluptatum dolor illo, deserunt doloribus illum earum
+            voluptate quasi animi accusamus quisquam suscipit corporis sit
+            dignissimos inventore obcaecati repellendus? Praesentium quidem eos
+            vitae corporis ipsum qui a perferendis asperiores hic adipisci ex
+            voluptate veritatis mollitia ratione nisi ab enim harum, obcaecati
+            quam tenetur expedita odio. Excepturi impedit necessitatibus quos
+            placeat ex tempora, voluptas pariatur maxime. Ipsam doloremque,
+            repellat reprehenderit necessitatibus laudantium delectus suscipit
+            accusantium beatae unde quam? Distinctio eum tempora laborum ratione
+            provident. Minima?
           </p>
         </CustomModal>
       </section>

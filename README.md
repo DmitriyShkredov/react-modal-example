@@ -2,6 +2,10 @@
 
 ### `Demo:` https://dmitriyshkredov.github.io/react-modal-example/
 
+#### `Youtube:` [Подключаем и стилизуем react-modal | How to use react-modal](https://youtu.be/r4YnCmvsP30)
+
+#### `VK Video:` [Подключаем и стилизуем react-modal | How to use react-modal](https://vk.com/video/@tipichnyjvebrazrabotchik?z=video-222570561_456239035%2Fclub222570561%2Fpl_-222570561_-2)
+
 ---
 
 ### `git clone https://github.com/DmitriyShkredov/react-modal-example.git`
